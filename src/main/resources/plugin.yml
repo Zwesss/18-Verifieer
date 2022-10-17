@@ -1,0 +1,7 @@
+name: VerifyTutorial
+version: '${project.version}'
+main: dev.tim.verifytutorial.Main
+api-version: 1.19
+commands:
+  verify:
+    usage: /<command>
